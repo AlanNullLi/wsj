@@ -1,0 +1,26 @@
+
+.header {
+    height: 75px;
+}
+
+.Normal {
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.Medium {
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.smaller {
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.smallerHeaderTitle {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 25px;
+}
